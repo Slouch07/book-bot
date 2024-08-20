@@ -1,2 +1,2 @@
 # book-bot
-A python project which is part of the Boot.dev curriculm
+Book Bot is my first project from within the Boot.Dev curriculm.
